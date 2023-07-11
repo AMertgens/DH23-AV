@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://AMertgens.github.io/DH23-AV/annotations/lecture-1-canvas-1-00-02-05.json",
-            "label": {
-              "none": ["00:02:05"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://AMertgens.github.io/DH23-AV/annotations/lecture-1-canvas-1-00-01-20.json",
             "label": {
               "none": ["00:01:20"]
