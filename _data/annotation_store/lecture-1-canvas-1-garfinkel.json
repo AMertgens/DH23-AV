@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://AMertgens.github.io/DH23-AV/annotations/lecture-1-canvas-1-garfinkel.json",
+  "type": "AnnotationPage",
+  "label": "Garfinkel",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lecture-1-canvas-1-garfinkel-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I need to make an anouncement about the exercises of finding X and explaining(ten) indexical expressions on the grounds of your doing the journeying that your neighbor mapped out for you. I looked at many of them and finally decided xxxx, in talking with just several students, that the exercise is too tough.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Garfinkel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://AMertgens.github.io/DH23-AV/lecture-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "80.0,124.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lecture-1-canvas-1-garfinkel-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Nevertheless, the thing that's impressive is that so many persons did the best they could with it, and the best very p frequently amounted to finding examples of the expressions as I had described *****xx* them; finding examples of, quote, ), or finding an example of a biographical di indication, or finding \"etc.\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Garfinkel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://AMertgens.github.io/DH23-AV/lecture-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "125.0,159.0"
+        }
+      }
+    }
+  ]
+}
