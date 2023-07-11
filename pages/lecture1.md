@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: lecture1
 manifest_name: lecture1
 permalink: lecture1
