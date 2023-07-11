@@ -8,6 +8,16 @@
         "id": "https://AMertgens.github.io/DH23-AV/lecture1/canvas-1/canvas",
         "type": "Canvas",
         "duration": 435.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://AMertgens.github.io/DH23-AV/annotations/lecture1-canvas-1-garfinkel.json",
+            "label": {
+              "none": ["Garfinkel"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://AMertgens.github.io/DH23-AV/lecture1/canvas-1/paintings",
