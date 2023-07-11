@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://AMertgens.github.io/DH23-AV/lecture-1/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "lecture-1" ] },
+    "items": [
+      {
+        "id": "https://AMertgens.github.io/DH23-AV/lecture-1/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 226.0,
+        "items": [
+          {
+            "id": "https://AMertgens.github.io/DH23-AV/lecture-1/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://AMertgens.github.io/DH23-AV/lecture-1/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://andreasmertgens.com/Garfinkel/AUDIO/edited000536-01.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 226.0
+                },
+                "target": "https://AMertgens.github.io/DH23-AV/lecture-1/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
