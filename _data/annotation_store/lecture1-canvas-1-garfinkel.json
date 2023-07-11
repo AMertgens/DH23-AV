@@ -60,7 +60,127 @@
         "source": "https://AMertgens.github.io/DH23-AV/lecture1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "125.0,159.0"
+          "t": "125.0,158.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lecture1-canvas-1-garfinkel-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That kind of explanation of the expressions of the map, I thought was a good beginning but it really didn't get at what I thought I was ak asking and I'll assume then the responsibility for **m that.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Garfinkel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://AMertgens.github.io/DH23-AV/lecture1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "159.0,199.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lecture1-canvas-1-garfinkel-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "What I'll do then is to praise you for having done the exercise, you can get extra credit for that. Those of wwwxxx you who didn't do the exercise, for whatever reasons, are excused from the exercise.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Garfinkel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://AMertgens.github.io/DH23-AV/lecture1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "200.0,222.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lecture1-canvas-1-garfinkel-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Also, I think that the matter of trying to get at *j* the features of these occasioned maps by going through the topic of indexical expressions is unnecessarily a long way around, so I'm going to change the agenda somewhat.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Garfinkel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://AMertgens.github.io/DH23-AV/lecture1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "222.0,261.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lecture1-canvas-1-garfinkel-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "You may find that, having gotten a look at indexical expressions, it would be some use to you. But I'm not going to dig into that topic as I XE originally planned to do. Instead, I'm going to start directly with what kinds of things are found on the kapE maps.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Garfinkel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://AMertgens.github.io/DH23-AV/lecture1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "262.0,293.0"
         }
       }
     }
